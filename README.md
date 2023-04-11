@@ -48,7 +48,7 @@ below:
 * Find and open the code challenge assignment and download the linked ZIP file
 * Unzip the file on your computer
 * In your terminal, change directory (`cd`) into the unzipped challenge directory
-* Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle` file)
+* Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle` file
 * Run `ruby bin/start <your-name>`  from the directory; this will create a new
   directory called `code-challenge/`
 * `cd` into the new `code-challenge/` directory and open it in your code editor
